@@ -1,0 +1,5 @@
+Descarguen los datos desde Kaggle (cuenta gratuita, botón Download):
+https://www.kaggle.com/datasets/anikannal/solar-power-generation-data
+
+Dejen aquí Plant_1_Weather_Sensor_Data.csv y Plant_2_Weather_Sensor_Data.csv, o el ZIP completo (archive.zip).
+Los datos NO se suben al repositorio ni se incluyen en el ZIP de entrega.
